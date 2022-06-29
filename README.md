@@ -63,7 +63,7 @@ Note: You can install manually or use a platform installers such as [`choco`](Wi
 - Method (a): [`cargo-generate`]; Recommended
 
 ```sh
-cargo generate --git https://github.com/usagi/template-rust-backend-with-electron-frontend.git
+cargo generate --git https://github.com/ad34/template-rust-backend-with-electron-frontend.git
 ```
 
 [`cargo-generate`]:https://github.com/ashleygwilliams/cargo-generate
